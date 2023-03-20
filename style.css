@@ -16,13 +16,12 @@
   
   td {
     text-align: center;
-    width: 100px;
-    height: 30px;
+    width: 130px;
+    height: 20px;
     background-color: #f4d35e;
   }
   .row {
     height: auto;
-    border: none;
     padding: 0;
     border-collapse: collapse;
   }
